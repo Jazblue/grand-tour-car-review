@@ -6,7 +6,7 @@ First episode of The Grand Tour Season 1, Episode 1 ("The Next Generation") feat
 
 ## 1. Chevrolet Corvette ZR1
 
-![Chevrolet Corvette ZR1](https://commons.wikimedia.org/wiki/File:2023_Chevrolet_Corvette_ZR1_Dealer_91100101_001.jpg)
+![Chevrolet Corvette ZR1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2023_Chevrolet_Corvette_ZR1_Dealer_91100101_001.jpg/1280px-2023_Chevrolet_Corvette_ZR1_Dealer_91100101_001.jpg)
 
 ### Engine Specifications
 - **Type:** 6.2L LT2 V8 (naturally aspirated)
@@ -28,7 +28,7 @@ The 2023 Chevrolet Corvette ZR1 is the pinnacle of the C8 generation, featuring 
 
 ## 2. Ford Mustang GTD
 
-![Ford Mustang GTD](https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GTD_01.jpg)
+![Ford Mustang GTD](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2024_Ford_Mustang_GTD_01.jpg/1280px-2024_Ford_Mustang_GTD_01.jpg)
 
 ### Engine Specifications
 - **Type:** 5.2L Supercharged V8 (Flat-Plane Crank)
@@ -49,7 +49,7 @@ The 2025 Ford Mustang GTD is Ford's ultimate track machine, developed in partner
 
 ## 3. Hennessey Venom F5 Revolution
 
-![Hennessey Venom F5 Revolution](https://commons.wikimedia.org/wiki/File:Hennessey_Venom_F5_Revolution.jpg)
+![Hennessey Venom F5 Revolution](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hennessey_Venom_F5_Revolution_2023.jpg/1280px-Hennessey_Venom_F5_Revolution_2023.jpg)
 
 ### Engine Specifications
 - **Type:** 6.6L Twin-Turbo V8 (Fury engine)
