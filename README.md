@@ -12,7 +12,7 @@ During their road trip across southern California, they compare three of the gre
 
 ## 1. Chevrolet Corvette ZR1
 
-![Chevrolet Corvette ZR1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2023_Chevrolet_Corvette_ZR1_Dealer_91100101_001.jpg/1280px-2023_Chevrolet_Corvette_ZR1_Dealer_91100101_001.jpg)
+![Chevrolet Corvette ZR1](images/corvette_zr1.jpg)
 
 ### Engine Specifications
 - **Engine:** 6.2L LT2 V8 (naturally aspirated)
@@ -27,7 +27,7 @@ The 2023 Chevrolet Corvette ZR1 represents the pinnacle of Corvette performance 
 
 ## 2. Ford Mustang GTD
 
-![Ford Mustang GTD](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2024_Ford_Mustang_GTD_03.jpg/1280px-2024_Ford_Mustang_GTD_03.jpg)
+![Ford Mustang GTD](images/mustang_gtd.jpg)
 
 ### Engine Specifications
 - **Engine:** 5.2L Supercharged V8 (Flat-Plane Crank)
@@ -41,7 +41,7 @@ The 2025 Ford Mustang GTD is Ford's ultimate street-legal track weapon, develope
 
 ## 3. Hennessey Venom F5 Revolution Evolution
 
-![Hennessey Venom F5 Revolution](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hennessey_Venom_F5_Revolution_2023.png/1280px-Hennessey_Venom_F5_Revolution_2023.png)
+![Hennessey Venom F5 Revolution](images/venom_f5.jpg)
 
 ### Engine Specifications
 - **Engine:** 6.6L Twin-Turbo V8 ("Fury" engine)
@@ -61,7 +61,6 @@ The trio tests these American performance machines across the California desert,
 ---
 
 ### Presenters
-
 - **Thomas** - Passionate automotive enthusiast
 - **James** - Technical expert and analyst
 - **Francis** - Adventure seeker and qualifier
